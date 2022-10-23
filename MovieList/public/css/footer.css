@@ -1,0 +1,51 @@
+footer{
+    background-color:rgb(37, 35, 35);
+    padding: 0px;
+}
+
+.footer{
+    align-content: center;
+    width: 1000px;
+    height: 250px;
+    display:block;
+    max-width: 600px;
+    text-align:center;
+    margin: auto;
+    margin-top: 200px;
+    padding-top: 20px;
+}
+
+.footer b{
+    color: rgb(173, 11, 11);
+    font-weight: 0;
+}
+
+.footer p{
+    font-size: 15px;;
+    color: white;
+}
+
+.footer b{
+    color: rgb(173, 11, 11);
+    font-weight: 0;
+}
+
+.socialMediaIMG img{
+    width: 40px;
+    margin: 0px 5px 10px 5px;
+}
+
+.movieList{
+    margin-bottom: 10px;
+}
+
+.movieList a{
+    text-decoration: none;
+    color:white;
+    margin: 10px;
+    font-size: 15px;;
+}
+
+.movieList b{
+    color:white;
+}

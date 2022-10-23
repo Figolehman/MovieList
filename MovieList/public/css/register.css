@@ -1,0 +1,73 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    display: table;
+    overflow: hidden;
+}
+
+.content{
+    align-content: center;
+    width: 1000px;
+    height: 235px;
+    display:block;
+    max-width: 600px;
+    text-align:center;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.content b{
+    color: rgb(173, 11, 11);
+    font-weight: 0;
+}
+
+.content input{
+    margin-left: 60px;
+}
+
+.content label{
+    white-space: nowrap;
+}
+
+#column{
+    background-color:rgb(33, 32, 32);
+    border-radius: 10px;
+    text-align: justify;
+    margin-top: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#column label{
+    color:white;
+}
+
+.content button:hover{
+    background: rgb(180, 0, 0);
+  }
+
+.content button{
+    background-color: rgb(180, 0, 0);
+    border:none;
+    margin-top: 20px;
+    width:615px;
+    margin-left: -5px
+}
+
+.directLogin{
+    margin-top: 15px;
+}
+
+.directLogin p{
+    color: white;
+}
+
+.directLogin a{
+    text-decoration: none;
+}
+
+.directLogin b{
+    color: rgb(173, 11, 11);
+    font-weight: 0;
+}

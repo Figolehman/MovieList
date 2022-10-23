@@ -1,0 +1,71 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    display: table;
+    overflow: hidden;
+}
+
+.content{
+    align-content: center;
+    width: 1000px;
+    height: 185px;
+    display:block;
+    max-width: 600px;
+    text-align:center;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.content b{
+    color: rgb(173, 11, 11);
+    font-weight: 0;
+}
+
+#column{
+    background-color:rgb(33, 32, 32);
+    border-radius: 10px;
+    text-align: justify;
+    margin-top: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#column label{
+    color:white;
+}
+
+.form-check{
+   display: block;
+   margin-top: 20px;
+   text-align: justify
+}
+
+.content button:hover{
+    background: rgb(180, 0, 0);
+  }
+
+.content button{
+    background-color: rgb(180, 0, 0);
+    border:none;
+    margin-top: 20px;
+    width:615px;
+    margin-left: -5px;
+}
+
+.directRegister{
+    margin-top: 15px;
+}
+
+.directRegister p{
+    color: white;
+}
+
+.directRegister a{
+    text-decoration: none;
+}
+
+.directRegister b{
+    color: rgb(173, 11, 11);
+    font-weight: 0;
+}
